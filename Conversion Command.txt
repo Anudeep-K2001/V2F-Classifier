@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x "C:\Users\Anudeep\Projects\V2F Classifier\UI\main A02.ui" -o "C:\Users\Anudeep\Projects\V2F Classifier\scripts\A02_01.py"
